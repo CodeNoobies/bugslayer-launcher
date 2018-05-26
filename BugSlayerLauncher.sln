@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugSlayerLauncher", "BugSlayerLauncher\BugSlayerLauncher.csproj", "{2E6EC3F3-1EBE-439A-959F-1788E17DF493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6EC3F3-1EBE-439A-959F-1788E17DF493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6EC3F3-1EBE-439A-959F-1788E17DF493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6EC3F3-1EBE-439A-959F-1788E17DF493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6EC3F3-1EBE-439A-959F-1788E17DF493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680D9984-E11A-4EDA-81D3-7A222A8C20B4}
+	EndGlobalSection
+EndGlobal
